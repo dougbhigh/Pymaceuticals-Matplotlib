@@ -16,4 +16,4 @@
 
 
 
-![alt text](https://github.com/dougbhigh/Matplotlib-Challenge/tree/master/Pymaceuticals/images/scatter2.png)
+![alt text](https://github.com/dougbhigh/Matplotlib-Challenge/blob/master/Pymaceuticals/images/scatter2.png)
