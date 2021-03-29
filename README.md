@@ -10,7 +10,6 @@
      > Generate line plot of random mouse showing tumor size throughout full study.
      > Create scatterplot with regression line and function for select treatment comparing mouse weight vs. 
        tumor size.  
-
 ![alt text](https://github.com/dougbhigh/Matplotlib-Challenge/blob/master/Pymaceuticals/images/scatter2.png)
 ![alt text](https://github.com/dougbhigh/Matplotlib-Challenge/blob/master/Pymaceuticals/images/boxPlot.png)
 ![alt text](https://github.com/dougbhigh/Matplotlib-Challenge/blob/master/Pymaceuticals/images/linePlot.png)
