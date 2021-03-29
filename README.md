@@ -11,5 +11,5 @@
      > Create scatterplot with regression line and function for select treatment comparing mouse weight vs. 
        tumor size.  
 
-![alt text](https://github.com/dougbhigh/Matplotlib-Challenge/blob/master/images/scatter2.png?raw=true)
+![alt text](https://github.com/dougbhigh/Matplotlib-Challenge/blob/master/images/scatter2.png)
 ![alt test](https://github.com/jeffhoffmanmba/machine_learning_stock_predicting_group/blob/main/Images_for_Website/Appl_rolling_20_50_200_day_ma.png)
